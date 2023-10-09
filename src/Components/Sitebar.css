@@ -1,0 +1,22 @@
+.Sitebar{
+    width: 10%;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 0 10px 10px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: fixed;
+}
+
+.Menu{
+    font-family: Comic Sans MS;
+    font-size: 35px;
+    
+}
+
+.Meat{
+    color: red;
+    font-family: Comic Sans MS;
+    font-size: 23px;
+}
