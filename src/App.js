@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './Components/Header';
 import Sitebar from './Components/Sitebar';
+import Main from './Components/Main';
 
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <div className="App">
       <Header/>
       <Sitebar/>
+      <Main/>
     </div>
   );
 }
